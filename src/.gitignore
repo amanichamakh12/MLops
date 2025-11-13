@@ -1,0 +1,12 @@
+# Environnements virtuels
+venv/
+.env/
+# Fichiers temporaires / caches Python
+__pycache__/
+*.pyc
+*.pyo
+# Données et modèles
+data/
+models/
+# Notebooks checkpoints
+*.ipynb_checkpoints/
